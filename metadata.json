@@ -1,0 +1,6 @@
+{
+  "name": "Raj Computer POS",
+  "description": "Verified Hyper-Local India Fintech POS App with Dynamic UPI QR Generator, Sound Box, and Admin Verification features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
